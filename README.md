@@ -1,4 +1,4 @@
-# Git_-Training
+# Git_Training
 For Data-analysis course training 
 ## _**Project 1**_
 
