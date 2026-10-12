@@ -11,3 +11,5 @@ For Data-analysis course training
 - [x] Completed task
 
 [GitHub](https://github.com)
+```python
+print("Hello world")
